@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
