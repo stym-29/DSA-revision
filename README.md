@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 ## Greedy
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/stym-29/DSA-revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
