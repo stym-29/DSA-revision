@@ -47,4 +47,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/stym-29/DSA-revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
