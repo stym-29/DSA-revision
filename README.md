@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -42,11 +43,13 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/stym-29/DSA-revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/stym-29/DSA-revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -65,8 +68,13 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 ## Database
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/stym-29/DSA-revision/tree/master/0180-consecutive-numbers) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
