@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 ## Greedy
@@ -59,4 +60,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
