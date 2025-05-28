@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/stym-29/DSA-revision/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
