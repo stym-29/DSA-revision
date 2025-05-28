@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/stym-29/DSA-revision/tree/master/0263-ugly-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/stym-29/DSA-revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
