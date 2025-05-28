@@ -20,6 +20,7 @@
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
+| [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 ## Database
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
