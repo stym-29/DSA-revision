@@ -6,6 +6,7 @@
 | ------- |
 | [0087-scramble-string](https://github.com/stym-29/DSA-revision/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+| [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
+| [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
