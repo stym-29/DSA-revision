@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/stym-29/DSA-revision/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
