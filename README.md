@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/stym-29/DSA-revision/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/stym-29/DSA-revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -57,6 +60,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Math
 |  |
@@ -86,4 +90,8 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
