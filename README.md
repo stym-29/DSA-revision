@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/stym-29/DSA-revision/tree/master/0087-scramble-string) |
+| [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 ## Dynamic Programming
@@ -13,6 +14,7 @@
 | [0087-scramble-string](https://github.com/stym-29/DSA-revision/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/stym-29/DSA-revision/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
 ## Array
 |  |
@@ -20,6 +22,7 @@
 | [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
@@ -77,6 +80,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/stym-29/DSA-revision/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 ## Matrix
 |  |
@@ -109,4 +113,12 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/stym-29/DSA-revision/tree/master/0092-reverse-linked-list-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
