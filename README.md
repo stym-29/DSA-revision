@@ -16,6 +16,7 @@
 | [0096-unique-binary-search-trees](https://github.com/stym-29/DSA-revision/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/stym-29/DSA-revision/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 ## Counting
 |  |
 | ------- |
