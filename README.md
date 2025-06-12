@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/stym-29/DSA-revision/tree/master/0006-zigzag-conversion) |
 | [0087-scramble-string](https://github.com/stym-29/DSA-revision/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
