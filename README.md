@@ -33,6 +33,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2792-neighboring-bitwise-xor](https://github.com/stym-29/DSA-revision/tree/master/2792-neighboring-bitwise-xor) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stym-29/DSA-revision/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
+| [2792-neighboring-bitwise-xor](https://github.com/stym-29/DSA-revision/tree/master/2792-neighboring-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
