@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/stym-29/DSA-revision/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/stym-29/DSA-revision/tree/master/0263-ugly-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/stym-29/DSA-revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
