@@ -34,6 +34,7 @@
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/stym-29/DSA-revision/tree/master/2792-neighboring-bitwise-xor) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stym-29/DSA-revision/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
@@ -41,10 +42,12 @@
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Backtracking
 |  |
 | ------- |
