@@ -33,6 +33,7 @@
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
+| [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/stym-29/DSA-revision/tree/master/2792-neighboring-bitwise-xor) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -73,12 +74,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/stym-29/DSA-revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/stym-29/DSA-revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -107,6 +110,7 @@
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
+| [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 ## Database
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +135,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
