@@ -9,6 +9,7 @@
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,11 +44,13 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +130,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
 | ------- |
