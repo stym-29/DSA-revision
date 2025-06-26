@@ -9,6 +9,7 @@
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -149,4 +152,5 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
