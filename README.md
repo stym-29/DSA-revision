@@ -9,6 +9,7 @@
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/stym-29/DSA-revision/tree/master/0095-unique-binary-search-trees-ii) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | ------- |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
@@ -153,4 +157,8 @@
 | ------- |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Enumeration
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
