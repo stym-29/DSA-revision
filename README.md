@@ -37,6 +37,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/stym-29/DSA-revision/tree/master/2792-neighboring-bitwise-xor) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Backtracking
@@ -109,6 +111,7 @@
 | [0073-set-matrix-zeroes](https://github.com/stym-29/DSA-revision/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Matrix
 |  |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
