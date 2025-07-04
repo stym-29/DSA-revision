@@ -9,6 +9,7 @@
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
+| [0415-add-strings](https://github.com/stym-29/DSA-revision/tree/master/0415-add-strings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/stym-29/DSA-revision/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/stym-29/DSA-revision/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/stym-29/DSA-revision/tree/master/0415-add-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/stym-29/DSA-revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/stym-29/DSA-revision/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/stym-29/DSA-revision/tree/master/0415-add-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
