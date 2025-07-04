@@ -71,6 +71,7 @@
 | ------- |
 | [0078-subsets](https://github.com/stym-29/DSA-revision/tree/master/0078-subsets) |
 | [2792-neighboring-bitwise-xor](https://github.com/stym-29/DSA-revision/tree/master/2792-neighboring-bitwise-xor) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/stym-29/DSA-revision/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0263-ugly-number](https://github.com/stym-29/DSA-revision/tree/master/0263-ugly-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/stym-29/DSA-revision/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/stym-29/DSA-revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/stym-29/DSA-revision/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/stym-29/DSA-revision/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
