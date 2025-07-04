@@ -37,6 +37,7 @@
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/stym-29/DSA-revision/tree/master/0414-third-maximum-number) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
+| [0414-third-maximum-number](https://github.com/stym-29/DSA-revision/tree/master/0414-third-maximum-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
