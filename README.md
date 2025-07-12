@@ -25,6 +25,7 @@
 | [0213-house-robber-ii](https://github.com/stym-29/DSA-revision/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/stym-29/DSA-revision/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Array
 |  |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/stym-29/DSA-revision/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
 |  |
