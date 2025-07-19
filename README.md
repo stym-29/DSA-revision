@@ -11,6 +11,7 @@
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/stym-29/DSA-revision/tree/master/0415-add-strings) |
 | [0449-serialize-and-deserialize-bst](https://github.com/stym-29/DSA-revision/tree/master/0449-serialize-and-deserialize-bst) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/stym-29/DSA-revision/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/stym-29/DSA-revision/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -43,6 +44,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/stym-29/DSA-revision/tree/master/0414-third-maximum-number) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/stym-29/DSA-revision/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/stym-29/DSA-revision/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -99,6 +101,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/stym-29/DSA-revision/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/stym-29/DSA-revision/tree/master/0449-serialize-and-deserialize-bst) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/stym-29/DSA-revision/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/stym-29/DSA-revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/stym-29/DSA-revision/tree/master/0139-word-break) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/stym-29/DSA-revision/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
