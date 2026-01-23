@@ -54,6 +54,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/stym-29/DSA-revision/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/stym-29/DSA-revision/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/stym-29/DSA-revision/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stym-29/DSA-revision/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
@@ -144,6 +145,7 @@
 | [0299-bulls-and-cows](https://github.com/stym-29/DSA-revision/tree/master/0299-bulls-and-cows) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/stym-29/DSA-revision/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/stym-29/DSA-revision/tree/master/0415-add-strings) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/stym-29/DSA-revision/tree/master/0092-reverse-linked-list-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Trie
 |  |
 | ------- |
@@ -203,6 +207,7 @@
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -219,4 +224,12 @@
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/stym-29/DSA-revision/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
