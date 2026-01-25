@@ -48,6 +48,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/stym-29/DSA-revision/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/stym-29/DSA-revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/stym-29/DSA-revision/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/stym-29/DSA-revision/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/stym-29/DSA-revision/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -77,6 +78,7 @@
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/stym-29/DSA-revision/tree/master/0414-third-maximum-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/stym-29/DSA-revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/stym-29/DSA-revision/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/stym-29/DSA-revision/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/stym-29/DSA-revision/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -222,6 +224,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/stym-29/DSA-revision/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/stym-29/DSA-revision/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
