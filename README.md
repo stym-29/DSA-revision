@@ -45,6 +45,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/stym-29/DSA-revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/stym-29/DSA-revision/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/stym-29/DSA-revision/tree/master/0414-third-maximum-number) |
+| [1200-minimum-absolute-difference](https://github.com/stym-29/DSA-revision/tree/master/1200-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/stym-29/DSA-revision/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/stym-29/DSA-revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/stym-29/DSA-revision/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/stym-29/DSA-revision/tree/master/0414-third-maximum-number) |
+| [1200-minimum-absolute-difference](https://github.com/stym-29/DSA-revision/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/stym-29/DSA-revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/stym-29/DSA-revision/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym-29/DSA-revision/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
