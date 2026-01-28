@@ -31,6 +31,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/stym-29/DSA-revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/stym-29/DSA-revision/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/stym-29/DSA-revision/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/stym-29/DSA-revision/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/stym-29/DSA-revision/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/stym-29/DSA-revision/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/stym-29/DSA-revision/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/stym-29/DSA-revision/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/stym-29/DSA-revision/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/stym-29/DSA-revision/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
@@ -160,6 +162,7 @@
 | [0200-number-of-islands](https://github.com/stym-29/DSA-revision/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/stym-29/DSA-revision/tree/master/0289-game-of-life) |
 | [1396-count-servers-that-communicate](https://github.com/stym-29/DSA-revision/tree/master/1396-count-servers-that-communicate) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/stym-29/DSA-revision/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Database
 |  |
 | ------- |
